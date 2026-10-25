@@ -47,6 +47,3 @@ DEBES CONVERTIR LA CLASE "main" en un MAIN CLASS PARA QUE FUNCIONE
 Mozo: mozo / mozo123
 Cocinero: cocinero / cocina123
 Admin: admin / admin123
-* **Admin:** `admin` / `admin123`
-
-Prueba presionar `Shift + F6` sobre el `Main.java` y cuéntame si la ventana de SaborExpress por fin abrió en tu pantalla.
